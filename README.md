@@ -4,8 +4,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Mobile and Desktop design
 
-![](desktop-preview.png)  
-![](mobile-design.jpg)  
+![image](https://github.com/novice-is-me/QR-Code-FrontEndMentor-Solution/assets/82492784/5a8611b6-8cf8-4d00-9322-c36cba732ab7)
+
+
 
 ### Links
 
