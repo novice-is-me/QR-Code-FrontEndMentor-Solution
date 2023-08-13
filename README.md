@@ -5,8 +5,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Mobile and Desktop design
 
-(design-output\desktop-preview.png)  
-(design-output\mobile-design.jpg)   
+design-output/desktop-preview.png
+design-output/mobile-design.jpg 
 
 - Live Site URL: [https://novice-is-me.github.io/QR-Code-FrontEndMentor-Solution/] 
 
